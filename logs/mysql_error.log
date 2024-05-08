@@ -1,0 +1,42 @@
+2024-05-08T16:40:29.6NZ mysqld_safe Logging to '/Applications/MAMP/logs/mysql_error.log'.
+2024-05-08T16:40:29.6NZ mysqld_safe Starting mysqld daemon with databases from /Applications/MAMP/db/mysql57
+2024-05-08T16:40:29.982259Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2024-05-08T16:40:29.982410Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2024-05-08T16:40:29.982461Z 0 [Note] /Applications/MAMP/Library/bin/mysqld (mysqld 5.7.39) starting as process 9477 ...
+2024-05-08T16:40:29.984182Z 0 [Warning] Setting lower_case_table_names=2 because file system for /Applications/MAMP/db/mysql57/ is case insensitive
+2024-05-08T16:40:29.985079Z 0 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2024-05-08T16:40:29.985087Z 0 [Note] InnoDB: Uses event mutexes
+2024-05-08T16:40:29.985091Z 0 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2024-05-08T16:40:29.985095Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2024-05-08T16:40:29.985516Z 0 [Note] InnoDB: Number of pools: 1
+2024-05-08T16:40:29.985671Z 0 [Note] InnoDB: Not using CPU crc32 instructions
+2024-05-08T16:40:29.986155Z 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2024-05-08T16:40:29.989432Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2024-05-08T16:40:30.004682Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2024-05-08T16:40:30.014896Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2024-05-08T16:40:30.014973Z 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2024-05-08T16:40:30.020019Z 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2024-05-08T16:40:30.020292Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2024-05-08T16:40:30.020298Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2024-05-08T16:40:30.020416Z 0 [Note] InnoDB: Waiting for purge to start
+2024-05-08T16:40:30.075466Z 0 [Note] InnoDB: 5.7.39 started; log sequence number 2551388
+2024-05-08T16:40:30.075561Z 0 [Note] InnoDB: Loading buffer pool(s) from /Applications/MAMP/db/mysql57/ib_buffer_pool
+2024-05-08T16:40:30.075702Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2024-05-08T16:40:30.078622Z 0 [Warning] InnoDB: Table mysql/innodb_table_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2024-05-08T16:40:30.078652Z 0 [Warning] InnoDB: Table mysql/innodb_index_stats has length mismatch in the column name table_name.  Please run mysql_upgrade
+2024-05-08T16:40:30.086117Z 0 [Note] Found ca.pem, server-cert.pem and server-key.pem in data directory. Trying to enable SSL support using them.
+2024-05-08T16:40:30.086133Z 0 [Note] Skipping generation of SSL certificates as certificate files are present in data directory.
+2024-05-08T16:40:30.086140Z 0 [Warning] A deprecated TLS version TLSv1 is enabled. Please use TLSv1.2 or higher.
+2024-05-08T16:40:30.086145Z 0 [Warning] A deprecated TLS version TLSv1.1 is enabled. Please use TLSv1.2 or higher.
+2024-05-08T16:40:30.086478Z 0 [Note] InnoDB: Buffer pool(s) load completed at 240508 13:40:30
+2024-05-08T16:40:30.087471Z 0 [Warning] CA certificate ca.pem is self signed.
+2024-05-08T16:40:30.087585Z 0 [Note] Skipping generation of RSA key pair as key files are present in data directory.
+2024-05-08T16:40:30.088127Z 0 [Note] Server hostname (bind-address): '*'; port: 8889
+2024-05-08T16:40:30.088327Z 0 [Note] IPv6 is available.
+2024-05-08T16:40:30.088336Z 0 [Note]   - '::' resolves to '::';
+2024-05-08T16:40:30.088358Z 0 [Note] Server socket created on IP: '::'.
+2024-05-08T16:40:30.088579Z 0 [Warning] Insecure configuration for --pid-file: Location '/Applications/MAMP/tmp' in the path is accessible to all OS users. Consider choosing a different directory.
+2024-05-08T16:40:30.102028Z 0 [Warning] Optional native table 'performance_schema'.'processlist' has the wrong structure or is missing.
+2024-05-08T16:40:30.102433Z 0 [Note] Event Scheduler: Loaded 0 events
+2024-05-08T16:40:30.102491Z 0 [Note] /Applications/MAMP/Library/bin/mysqld: ready for connections.
+Version: '5.7.39'  socket: '/Applications/MAMP/tmp/mysql/mysql.sock'  port: 8889  MySQL Community Server (GPL)
