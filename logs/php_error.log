@@ -1,0 +1,4 @@
+[09-May-2024 00:20:49 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /Applications/MAMP/htdocs/bt3/tarea1/procesar_datos.php:31
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/bt3/tarea1/procesar_datos.php on line 31
