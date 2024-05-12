@@ -1,4 +1,3 @@
-# Centro de Respaldo de Datos
-Este repositorio ha sido creado con el propósito de almacenar información y archivos relacionados con trabajos y materiales de estudio del liceo. Es un espacio destinado a respaldar los recursos necesarios para actividades educativas y proyectos escolares.
-
-
+# Centro de Almacenamiento de Datos
+Repositorio creado con la finalidad de almacenar información, como ejercicios relacionados con la ingeniería de software. Destinado mayoritariamente a almacenar datos de las materias del tronco tecnológico.
+ATTE: Gianni Carsillo
