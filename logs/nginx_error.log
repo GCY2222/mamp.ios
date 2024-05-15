@@ -1,0 +1,1 @@
+2024/05/13 13:32:33 [warn] 10135#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /Applications/MAMP/conf/nginx/nginx.conf:7

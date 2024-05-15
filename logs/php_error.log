@@ -2,3 +2,18 @@
 Stack trace:
 #0 {main}
   thrown in /Applications/MAMP/htdocs/bt3/tarea1/procesar_datos.php on line 31
+[13-May-2024 17:00:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'mamp'@'localhost' (using password: YES) in /Applications/MAMP/htdocs/bt3/tarea1-BD/script.php:9
+Stack trace:
+#0 /Applications/MAMP/htdocs/bt3/tarea1-BD/script.php(9): mysqli->__construct('localhost', 'mamp', Object(SensitiveParameterValue), 'Usuarios')
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/bt3/tarea1-BD/script.php on line 9
+[13-May-2024 17:01:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'contraseña' in 'where clause' in /Applications/MAMP/htdocs/bt3/tarea1-BD/script.php:24
+Stack trace:
+#0 /Applications/MAMP/htdocs/bt3/tarea1-BD/script.php(24): mysqli->query('SELECT * FROM u...')
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/bt3/tarea1-BD/script.php on line 24
+[15-May-2024 00:20:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '222' for key 'PRIMARY' in /Applications/MAMP/htdocs/bt3/ma/tarea4/script.php:45
+Stack trace:
+#0 /Applications/MAMP/htdocs/bt3/ma/tarea4/script.php(45): mysqli->query('INSERT INTO per...')
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/bt3/ma/tarea4/script.php on line 45
