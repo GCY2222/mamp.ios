@@ -43,3 +43,6 @@
 Version: '5.7.39'  socket: '/Applications/MAMP/tmp/mysql/mysql.sock'  port: 8889  MySQL Community Server (GPL)
 2024-05-22T22:00:16.6NZ mysqld_safe A mysqld process already exists
 2024-05-22T22:13:19.641306Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 244348ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2024-05-22T22:25:56.915243Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 62653ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2024-05-22T22:47:47.598506Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 67673ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2024-05-22T22:55:12.530409Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 142641ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
