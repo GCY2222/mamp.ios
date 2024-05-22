@@ -1,2 +1,0 @@
-# Tarea 1 de modulo BD
-Crear un sitio web que solicite los datos de nombre de usuario y contraseña. Finalmente, valide los datos ingresados en una base de datos previamente creada, llamada “Usuarios” y muestre un mensaje de error en caso de que el nombre de usuario o contraseña no coincidan con los almacenados en la base de datos. Se tomará en cuenta la estructura, validaciones y estilos aplicados al sitio.

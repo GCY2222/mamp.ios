@@ -1,2 +1,0 @@
-# Tarea de programación 3
-Crear una aplicacion web (front y back) que solicite el ingreso de un año, los envie por GET y en el backend muestre si  el año ingresado es bisiesto o no. Aplique las validaciones necesarias.

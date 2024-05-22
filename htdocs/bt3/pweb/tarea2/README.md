@@ -1,0 +1,2 @@
+# Tarea 2 de programación
+Crear una aplicacion web (front y back) que solicite un nombre de usuario y una contraseña, los envie por POST y en el backend muestre si los datos ingresados coinciden con los datos contenidos en el archivo usuarios.txt. Aplique las validaciones necesarias
