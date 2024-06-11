@@ -17,3 +17,153 @@ Stack trace:
 #0 /Applications/MAMP/htdocs/bt3/ma/tarea4/script.php(45): mysqli->query('INSERT INTO per...')
 #1 {main}
   thrown in /Applications/MAMP/htdocs/bt3/ma/tarea4/script.php on line 45
+[04-Jun-2024 12:02:32 UTC] PHP Fatal error:  Uncaught Error: Array callback must have exactly two elements in /Applications/MAMP/htdocs/bt3/pweb/tarea6/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/bt3/pweb/tarea6/index.php on line 22
+[04-Jun-2024 12:05:10 UTC] PHP Fatal error:  Uncaught Error: Array callback must have exactly two elements in /Applications/MAMP/htdocs/bt3/pweb/tarea6/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/bt3/pweb/tarea6/index.php on line 23
+[04-Jun-2024 12:05:10 UTC] PHP Fatal error:  Uncaught Error: Array callback must have exactly two elements in /Applications/MAMP/htdocs/bt3/pweb/tarea6/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/bt3/pweb/tarea6/index.php on line 23
+[04-Jun-2024 12:05:11 UTC] PHP Fatal error:  Uncaught Error: Array callback must have exactly two elements in /Applications/MAMP/htdocs/bt3/pweb/tarea6/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/bt3/pweb/tarea6/index.php on line 23
+[04-Jun-2024 12:09:26 UTC] PHP Fatal error:  Uncaught TypeError: asort(): Argument #1 ($array) must be of type array, string given in /Applications/MAMP/htdocs/bt3/pweb/tarea6/index.php:27
+Stack trace:
+#0 /Applications/MAMP/htdocs/bt3/pweb/tarea6/index.php(27): asort('55672216')
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/bt3/pweb/tarea6/index.php on line 27
+[04-Jun-2024 12:10:53 UTC] PHP Fatal error:  Uncaught TypeError: asort(): Argument #1 ($array) must be of type array, string given in /Applications/MAMP/htdocs/bt3/pweb/tarea6/index.php:27
+Stack trace:
+#0 /Applications/MAMP/htdocs/bt3/pweb/tarea6/index.php(27): asort('55672216')
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/bt3/pweb/tarea6/index.php on line 27
+[04-Jun-2024 12:13:24 UTC] PHP Warning:  Array to string conversion in /Applications/MAMP/htdocs/bt3/pweb/tarea6/index.php on line 29
+[04-Jun-2024 12:14:47 UTC] PHP Warning:  Array to string conversion in /Applications/MAMP/htdocs/bt3/pweb/tarea6/index.php on line 29
+[04-Jun-2024 12:15:02 UTC] PHP Warning:  Array to string conversion in /Applications/MAMP/htdocs/bt3/pweb/tarea6/index.php on line 29
+[04-Jun-2024 12:15:21 UTC] PHP Warning:  Array to string conversion in /Applications/MAMP/htdocs/bt3/pweb/tarea6/index.php on line 29
+[04-Jun-2024 12:26:34 UTC] PHP Fatal error:  Uncaught Error: Array callback must have exactly two elements in /Applications/MAMP/htdocs/bt3/pweb/tarea6/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/bt3/pweb/tarea6/index.php on line 23
+[04-Jun-2024 12:26:56 UTC] PHP Fatal error:  Uncaught Error: Array callback must have exactly two elements in /Applications/MAMP/htdocs/bt3/pweb/tarea6/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/bt3/pweb/tarea6/index.php on line 24
+[04-Jun-2024 12:27:58 UTC] PHP Fatal error:  Uncaught Error: Array callback must have exactly two elements in /Applications/MAMP/htdocs/bt3/pweb/tarea6/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/bt3/pweb/tarea6/index.php on line 24
+[04-Jun-2024 13:05:40 UTC] PHP Fatal error:  Uncaught Error: Array callback must have exactly two elements in /Applications/MAMP/htdocs/bt3/pweb/tarea6/index.php:23
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/bt3/pweb/tarea6/index.php on line 23
+[04-Jun-2024 13:06:07 UTC] PHP Warning:  Undefined array key "$cedula" in /Applications/MAMP/htdocs/bt3/pweb/tarea6/index.php on line 23
+[04-Jun-2024 13:20:29 UTC] PHP Fatal error:  Uncaught Error: Array callback must have exactly two elements in /Applications/MAMP/htdocs/bt3/pweb/tarea6/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/bt3/pweb/tarea6/index.php on line 21
+[04-Jun-2024 13:22:15 UTC] PHP Fatal error:  Uncaught Error: Array callback must have exactly two elements in /Applications/MAMP/htdocs/bt3/pweb/tarea6/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/bt3/pweb/tarea6/index.php on line 21
+[04-Jun-2024 13:22:53 UTC] PHP Fatal error:  Uncaught Error: Array callback must have exactly two elements in /Applications/MAMP/htdocs/bt3/pweb/tarea6/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/bt3/pweb/tarea6/index.php on line 21
+[04-Jun-2024 13:23:55 UTC] PHP Fatal error:  Uncaught Error: Array callback must have exactly two elements in /Applications/MAMP/htdocs/bt3/pweb/tarea6/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/bt3/pweb/tarea6/index.php on line 22
+[04-Jun-2024 13:45:20 UTC] PHP Warning:  Undefined array key "REQUEST-METHOD" in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php on line 3
+[04-Jun-2024 13:45:41 UTC] PHP Warning:  Undefined variable $cedula_array in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php on line 4
+[04-Jun-2024 13:45:41 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php:4
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php on line 4
+[04-Jun-2024 13:49:45 UTC] PHP Fatal error:  Uncaught Error: Array callback must have exactly two elements in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php:4
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php on line 4
+[04-Jun-2024 13:49:48 UTC] PHP Fatal error:  Uncaught Error: Array callback must have exactly two elements in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php:4
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php on line 4
+[04-Jun-2024 13:50:45 UTC] PHP Fatal error:  Uncaught Error: Array callback must have exactly two elements in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php:4
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php on line 4
+[04-Jun-2024 13:50:55 UTC] PHP Fatal error:  Uncaught Error: Array callback must have exactly two elements in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php:4
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php on line 4
+[04-Jun-2024 13:59:47 UTC] PHP Fatal error:  Uncaught Error: Array callback must have exactly two elements in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php:4
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php on line 4
+[04-Jun-2024 13:59:57 UTC] PHP Fatal error:  Uncaught Error: Array callback must have exactly two elements in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php:4
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php on line 4
+[04-Jun-2024 14:01:28 UTC] PHP Warning:  Array to string conversion in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php on line 7
+[04-Jun-2024 14:03:30 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php on line 3
+[04-Jun-2024 14:08:24 UTC] PHP Warning:  Undefined variable $asort in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php on line 7
+[04-Jun-2024 14:08:24 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php:7
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php on line 7
+[05-Jun-2024 01:54:51 UTC] PHP Warning:  Array to string conversion in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php on line 7
+[05-Jun-2024 02:00:04 UTC] PHP Fatal error:  Uncaught Error: Array callback must have exactly two elements in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php:4
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php on line 4
+[05-Jun-2024 02:00:29 UTC] PHP Warning:  Array to string conversion in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php on line 6
+[05-Jun-2024 02:01:25 UTC] PHP Warning:  Array to string conversion in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php on line 6
+[05-Jun-2024 02:01:41 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php:5
+Stack trace:
+#0 /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php(5): implode(' ', '55672216')
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php on line 5
+[05-Jun-2024 02:01:49 UTC] PHP Warning:  Array to string conversion in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php on line 6
+[05-Jun-2024 02:04:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fprint() in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php:5
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php on line 5
+[05-Jun-2024 02:14:21 UTC] PHP Parse error:  syntax error, unexpected identifier "explode", expecting "(" in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php on line 14
+[05-Jun-2024 02:16:28 UTC] PHP Warning:  Undefined variable $array in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php on line 17
+[05-Jun-2024 16:12:40 UTC] PHP Warning:  Undefined variable $index in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php on line 14
+[05-Jun-2024 16:21:32 UTC] PHP Fatal error:  Uncaught TypeError: asort(): Argument #1 ($array) must be of type array, string given in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php:22
+Stack trace:
+#0 /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php(22): asort('55672216')
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php on line 22
+[05-Jun-2024 16:25:54 UTC] PHP Parse error:  syntax error, unexpected token "}" in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php on line 26
+[05-Jun-2024 16:27:53 UTC] PHP Warning:  Array to string conversion in /Applications/MAMP/htdocs/bt3/pweb/tarea6/script.php on line 25
+[10-Jun-2024 16:42:11 UTC] PHP Warning:  Trying to access array offset on value of type int in /Applications/MAMP/htdocs/pruebaprogramacion/ejercicio1/index.php on line 21
+[10-Jun-2024 16:42:11 UTC] PHP Warning:  Trying to access array offset on value of type int in /Applications/MAMP/htdocs/pruebaprogramacion/ejercicio1/index.php on line 21
+[10-Jun-2024 16:42:11 UTC] PHP Warning:  Trying to access array offset on value of type int in /Applications/MAMP/htdocs/pruebaprogramacion/ejercicio1/index.php on line 21
+[10-Jun-2024 16:42:11 UTC] PHP Warning:  Trying to access array offset on value of type int in /Applications/MAMP/htdocs/pruebaprogramacion/ejercicio1/index.php on line 21
+[10-Jun-2024 16:42:11 UTC] PHP Warning:  Trying to access array offset on value of type int in /Applications/MAMP/htdocs/pruebaprogramacion/ejercicio1/index.php on line 21
+[10-Jun-2024 16:42:11 UTC] PHP Warning:  Trying to access array offset on value of type int in /Applications/MAMP/htdocs/pruebaprogramacion/ejercicio1/index.php on line 21
+[10-Jun-2024 16:42:11 UTC] PHP Warning:  Trying to access array offset on value of type int in /Applications/MAMP/htdocs/pruebaprogramacion/ejercicio1/index.php on line 21
+[10-Jun-2024 16:42:11 UTC] PHP Warning:  Trying to access array offset on value of type int in /Applications/MAMP/htdocs/pruebaprogramacion/ejercicio1/index.php on line 21
+[10-Jun-2024 16:46:21 UTC] PHP Warning:  Undefined array key "cedula" in /Applications/MAMP/htdocs/pruebaprogramacion/ejercicio1/index.php on line 11
+[10-Jun-2024 16:46:21 UTC] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in /Applications/MAMP/htdocs/pruebaprogramacion/ejercicio1/index.php on line 12
+[10-Jun-2024 16:46:21 UTC] PHP Deprecated:  str_split(): Passing null to parameter #1 ($string) of type string is deprecated in /Applications/MAMP/htdocs/pruebaprogramacion/ejercicio1/index.php on line 21
+[10-Jun-2024 16:47:22 UTC] PHP Warning:  Undefined array key "cedula" in /Applications/MAMP/htdocs/pruebaprogramacion/ejercicio1/index.php on line 15
+[10-Jun-2024 16:47:22 UTC] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in /Applications/MAMP/htdocs/pruebaprogramacion/ejercicio1/index.php on line 16
+[10-Jun-2024 16:47:22 UTC] PHP Deprecated:  str_split(): Passing null to parameter #1 ($string) of type string is deprecated in /Applications/MAMP/htdocs/pruebaprogramacion/ejercicio1/index.php on line 25
+[10-Jun-2024 17:39:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /Applications/MAMP/htdocs/pruebaprogramacion/ejercicio3/backend.php:43
+Stack trace:
+#0 /Applications/MAMP/htdocs/pruebaprogramacion/ejercicio3/backend.php(43): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'ejercicio3')
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/pruebaprogramacion/ejercicio3/backend.php on line 43
+[10-Jun-2024 17:47:05 UTC] PHP Warning:  Undefined array key "numero1" in /Applications/MAMP/htdocs/pruebaprogramacion/ejercicio2/backend.php on line 13
+[10-Jun-2024 17:47:05 UTC] PHP Warning:  Undefined array key "numero2" in /Applications/MAMP/htdocs/pruebaprogramacion/ejercicio2/backend.php on line 14
+[10-Jun-2024 17:47:40 UTC] PHP Warning:  Undefined array key "numero1" in /Applications/MAMP/htdocs/pruebaprogramacion/ejercicio2/backend.php on line 13
+[10-Jun-2024 17:47:40 UTC] PHP Warning:  Undefined array key "numero2" in /Applications/MAMP/htdocs/pruebaprogramacion/ejercicio2/backend.php on line 14

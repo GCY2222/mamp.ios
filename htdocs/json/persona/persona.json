@@ -1,0 +1,7 @@
+{
+    "nombre":"Gianni",
+    "edad":"18",
+    "ciudad":"Montevideo",
+    "casado":"false",
+    "hobbies":["ir al gym", "viajar", "leer"]
+}

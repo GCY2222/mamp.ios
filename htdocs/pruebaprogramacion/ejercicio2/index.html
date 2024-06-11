@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 2</title>
+    <style>
+        body{
+            margin: 0;
+            padding: 20px;
+            font-family: 'Times New Roman', Times, serif;
+            box-sizing: border-box;
+            text-align: center;
+            background-color: #f0f0f0;
+        }
+
+        .main{
+
+        }
+
+        .btn{
+            margin-top: 15px;
+            background-color: #007bff;
+            padding: 10px 20px;
+            font-size: 15px;
+            border: none;
+            border-radius: 5px ;
+            color: white;
+            cursor: pointer;
+        }
+
+        .btn:hover{
+            background-color: #0058b6;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Ejercicio 2</h1>
+    </div>
+    <form action="backend.php" method="post">
+        <div class="main">
+            <div class="content">
+                <label for="numero1"></label>
+                <input type="number" id="numero1" placeholder="Numero 1">
+            </div>
+            <div class="content">
+                <label for="numero2"></label>
+                <input type="number" id="numero2" placeholder="Numero 2">
+            </div>
+            <button type="submit" class="btn">Confirmar</button>
+        </div>
+    </form>
+</body>
+
+</html>
